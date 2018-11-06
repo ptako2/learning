@@ -1,0 +1,15 @@
+ul {
+
+}
+ul li {
+    list-style: none;
+    display: inline-block;
+    float: left;
+}
+ul li a {
+    text-decoration: none;
+    font-size: 20px;
+    font-family: verdana;
+    color:#1e1e1e;
+    padding: 0 50px;
+}
